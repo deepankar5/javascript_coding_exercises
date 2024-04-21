@@ -1,0 +1,19 @@
+probem solving stratigies
+1. understanding the problem
+    a: restate the problem in your own words
+    b: what are the inputs that go into the problem
+    c: what should be the output that comes out of the problem
+    d: can the output be determined by the input
+    e: lable the important information
+2. Explore concrete examples
+    a: work with easy input
+    b: then go to complex inputs
+    c: what if the input is empty
+    d: what if the input is invalid
+3. break it down
+    a: break the problem down to the most easy parts
+    b: the write the steps to solve that part of the problem
+    c: try to solve those indivial problem with code
+4. solve/ simplify
+
+5. look back and refactor

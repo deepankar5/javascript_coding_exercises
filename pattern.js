@@ -129,3 +129,7 @@ function Pattern3(row = 4, column = 7){
     }
     return outputString
 }
+
+
+let a = [1,2,3]
+a.map(item => ({'val': item}))
